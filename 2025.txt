@@ -1,0 +1,838 @@
+{
+    "data": {
+        "playlistV2": {
+            "__typename": "Playlist",
+            "content": {
+                "__typename": "PlaylistItemsPage",
+                "items": [
+                    {
+                        "addedAt": {
+                            "isoString": "2023-03-16T16:02:26Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": {
+                                    "sources": [
+                                        {
+                                            "height": 64,
+                                            "url": "https://i.scdn.co/image/ab67757000003b820c64d2395bec8f2f7f50259d",
+                                            "width": 64
+                                        },
+                                        {
+                                            "height": 300,
+                                            "url": "https://i.scdn.co/image/ab6775700000ee850c64d2395bec8f2f7f50259d",
+                                            "width": 300
+                                        }
+                                    ]
+                                },
+                                "name": "Monika",
+                                "uri": "spotify:user:1171137446",
+                                "username": "1171137446"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "ScHoolboy Q"
+                                                },
+                                                "uri": "spotify:artist:5IcR3N7QB1j6KBL8eImZ8m"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0236977e237a8f70ec6c990636",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485136977e237a8f70ec6c990636",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27336977e237a8f70ec6c990636",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Oxymoron (Deluxe)",
+                                    "uri": "spotify:album:7Et3bSTLLqdABO1qCxUplS"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "ScHoolboy Q"
+                                            },
+                                            "uri": "spotify:artist:5IcR3N7QB1j6KBL8eImZ8m"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Kendrick Lamar"
+                                            },
+                                            "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 1
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 299960
+                                },
+                                "name": "Collard Greens",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "599756050",
+                                "trackNumber": 3,
+                                "uri": "spotify:track:0zO8ctW0UiuOefR87OeJOZ"
+                            }
+                        },
+                        "uid": "7479059f0a659cad"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2023-03-16T16:07:50Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": {
+                                    "sources": [
+                                        {
+                                            "height": 64,
+                                            "url": "https://i.scdn.co/image/ab67757000003b820c64d2395bec8f2f7f50259d",
+                                            "width": 64
+                                        },
+                                        {
+                                            "height": 300,
+                                            "url": "https://i.scdn.co/image/ab6775700000ee850c64d2395bec8f2f7f50259d",
+                                            "width": 300
+                                        }
+                                    ]
+                                },
+                                "name": "Monika",
+                                "uri": "spotify:user:1171137446",
+                                "username": "1171137446"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Culture Club"
+                                                },
+                                                "uri": "spotify:artist:6kz53iCdBSqhQCZ21CoLcc"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02c7d7cdad0c2ffa5620129ee8",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851c7d7cdad0c2ffa5620129ee8",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273c7d7cdad0c2ffa5620129ee8",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Colour By Numbers (Remastered / Expanded Edition)",
+                                    "uri": "spotify:album:51NPMfa9QfxsYtqzcB2VfY"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Culture Club"
+                                            },
+                                            "uri": "spotify:artist:6kz53iCdBSqhQCZ21CoLcc"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 252773
+                                },
+                                "name": "Karma Chameleon - Remastered 2002",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "627240003",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:2wSAWEYUHkt92X4SBAPqZE"
+                            }
+                        },
+                        "uid": "e6a96754db4b7daa"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2023-03-27T11:13:27Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": {
+                                    "sources": [
+                                        {
+                                            "height": 64,
+                                            "url": "https://i.scdn.co/image/ab67757000003b820c64d2395bec8f2f7f50259d",
+                                            "width": 64
+                                        },
+                                        {
+                                            "height": 300,
+                                            "url": "https://i.scdn.co/image/ab6775700000ee850c64d2395bec8f2f7f50259d",
+                                            "width": 300
+                                        }
+                                    ]
+                                },
+                                "name": "Monika",
+                                "uri": "spotify:user:1171137446",
+                                "username": "1171137446"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Paul Simon"
+                                                },
+                                                "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0209880a7b8636c5a0615dc0c8",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485109880a7b8636c5a0615dc0c8",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Graceland (25th Anniversary Deluxe Edition)",
+                                    "uri": "spotify:album:6WgGWYw6XXQyLTsWt7tXky"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Paul Simon"
+                                            },
+                                            "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 280000
+                                },
+                                "name": "You Can Call Me Al",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "584665011",
+                                "trackNumber": 6,
+                                "uri": "spotify:track:0qxYx4F3vm1AOnfux6dDxP"
+                            }
+                        },
+                        "uid": "46657d37877eb408"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2023-04-30T12:49:38Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": {
+                                    "sources": [
+                                        {
+                                            "height": 64,
+                                            "url": "https://i.scdn.co/image/ab67757000003b820c64d2395bec8f2f7f50259d",
+                                            "width": 64
+                                        },
+                                        {
+                                            "height": 300,
+                                            "url": "https://i.scdn.co/image/ab6775700000ee850c64d2395bec8f2f7f50259d",
+                                            "width": 300
+                                        }
+                                    ]
+                                },
+                                "name": "Monika",
+                                "uri": "spotify:user:1171137446",
+                                "username": "1171137446"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Post Malone"
+                                                },
+                                                "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0234362676667a4322838ccc97",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485134362676667a4322838ccc97",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27334362676667a4322838ccc97",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Twelve Carat Toothache",
+                                    "uri": "spotify:album:3HHNR44YbP7XogMVwzbodx"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Post Malone"
+                                            },
+                                            "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "The Weeknd"
+                                            },
+                                            "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 192721
+                                },
+                                "name": "One Right Now (with The Weeknd)",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "609792121",
+                                "trackNumber": 13,
+                                "uri": "spotify:track:1nltpRhEiXikwDlVn4UADk"
+                            }
+                        },
+                        "uid": "d63b3d0fb36aebc6"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2023-06-01T15:06:06Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": {
+                                    "sources": [
+                                        {
+                                            "height": 64,
+                                            "url": "https://i.scdn.co/image/ab67757000003b820c64d2395bec8f2f7f50259d",
+                                            "width": 64
+                                        },
+                                        {
+                                            "height": 300,
+                                            "url": "https://i.scdn.co/image/ab6775700000ee850c64d2395bec8f2f7f50259d",
+                                            "width": 300
+                                        }
+                                    ]
+                                },
+                                "name": "Monika",
+                                "uri": "spotify:user:1171137446",
+                                "username": "1171137446"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Dua Lipa"
+                                                },
+                                                "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02ae395b47b186c2bc8c458e0f",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851ae395b47b186c2bc8c458e0f",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Dua Lipa (Complete Edition)",
+                                    "uri": "spotify:album:0obMz8EHnr3dg6NCUK4xWp"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Dua Lipa"
+                                            },
+                                            "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 178583
+                                },
+                                "name": "Blow Your Mind (Mwah)",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "537071533",
+                                "trackNumber": 6,
+                                "uri": "spotify:track:6oVGIxnuwcwZspPEYk2Yb3"
+                            }
+                        },
+                        "uid": "3b1a721a1670f0e3"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2023-12-04T10:02:04Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": {
+                                    "sources": [
+                                        {
+                                            "height": 64,
+                                            "url": "https://i.scdn.co/image/ab67757000003b820c64d2395bec8f2f7f50259d",
+                                            "width": 64
+                                        },
+                                        {
+                                            "height": 300,
+                                            "url": "https://i.scdn.co/image/ab6775700000ee850c64d2395bec8f2f7f50259d",
+                                            "width": 300
+                                        }
+                                    ]
+                                },
+                                "name": "Monika",
+                                "uri": "spotify:user:1171137446",
+                                "username": "1171137446"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Zedd"
+                                                },
+                                                "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+                                            },
+                                            {
+                                                "profile": {
+                                                    "name": "Elley Duhé"
+                                                },
+                                                "uri": "spotify:artist:67MNhiAICFY6Pwc2YxCO0K"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0241e9614560815b11c1ca543d",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485141e9614560815b11c1ca543d",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27341e9614560815b11c1ca543d",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Happy Now",
+                                    "uri": "spotify:album:0JcW7yCW3Qj8uMfzO2lUDb"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Zedd"
+                                            },
+                                            "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Elley Duhé"
+                                            },
+                                            "uri": "spotify:artist:67MNhiAICFY6Pwc2YxCO0K"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 207029
+                                },
+                                "name": "Happy Now",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "508691865",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:4keoy2fqgwGnbWlm3ZVZFa"
+                            }
+                        },
+                        "uid": "1f00a275609297fc"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2024-02-20T10:40:59Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": {
+                                    "sources": [
+                                        {
+                                            "height": 64,
+                                            "url": "https://i.scdn.co/image/ab67757000003b820c64d2395bec8f2f7f50259d",
+                                            "width": 64
+                                        },
+                                        {
+                                            "height": 300,
+                                            "url": "https://i.scdn.co/image/ab6775700000ee850c64d2395bec8f2f7f50259d",
+                                            "width": 300
+                                        }
+                                    ]
+                                },
+                                "name": "Monika",
+                                "uri": "spotify:user:1171137446",
+                                "username": "1171137446"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "Selena Gomez"
+                                                },
+                                                "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e0281cf523cf3cf268d3e2a243b",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d0000485181cf523cf3cf268d3e2a243b",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b27381cf523cf3cf268d3e2a243b",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Bad Liar",
+                                    "uri": "spotify:album:1iuzMKNzVo8HJ67eW32YMr"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "Selena Gomez"
+                                            },
+                                            "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "NONE"
+                                },
+                                "discNumber": 1,
+                                "trackDuration": {
+                                    "totalMilliseconds": 214647
+                                },
+                                "name": "Bad Liar",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "502629224",
+                                "trackNumber": 1,
+                                "uri": "spotify:track:2fZQIJew3nkNe99s2PKzul"
+                            }
+                        },
+                        "uid": "ec9eb7f53797fb4d"
+                    },
+                    {
+                        "addedAt": {
+                            "isoString": "2023-02-09T14:35:37Z"
+                        },
+                        "addedBy": {
+                            "data": {
+                                "__typename": "User",
+                                "avatar": {
+                                    "sources": [
+                                        {
+                                            "height": 64,
+                                            "url": "https://i.scdn.co/image/ab67757000003b820c64d2395bec8f2f7f50259d",
+                                            "width": 64
+                                        },
+                                        {
+                                            "height": 300,
+                                            "url": "https://i.scdn.co/image/ab6775700000ee850c64d2395bec8f2f7f50259d",
+                                            "width": 300
+                                        }
+                                    ]
+                                },
+                                "name": "Monika",
+                                "uri": "spotify:user:1171137446",
+                                "username": "1171137446"
+                            }
+                        },
+                        "attributes": [],
+                        "itemV2": {
+                            "__typename": "TrackResponseWrapper",
+                            "data": {
+                                "__typename": "Track",
+                                "albumOfTrack": {
+                                    "artists": {
+                                        "items": [
+                                            {
+                                                "profile": {
+                                                    "name": "2Pac"
+                                                },
+                                                "uri": "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+                                            }
+                                        ]
+                                    },
+                                    "coverArt": {
+                                        "sources": [
+                                            {
+                                                "height": 300,
+                                                "url": "https://i.scdn.co/image/ab67616d00001e02d81a092eb373ded457d94eec",
+                                                "width": 300
+                                            },
+                                            {
+                                                "height": 64,
+                                                "url": "https://i.scdn.co/image/ab67616d00004851d81a092eb373ded457d94eec",
+                                                "width": 64
+                                            },
+                                            {
+                                                "height": 640,
+                                                "url": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+                                                "width": 640
+                                            }
+                                        ]
+                                    },
+                                    "name": "Greatest Hits",
+                                    "uri": "spotify:album:1WBZyULtlANBKed7Zf9cDP"
+                                },
+                                "artists": {
+                                    "items": [
+                                        {
+                                            "profile": {
+                                                "name": "2Pac"
+                                            },
+                                            "uri": "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Roger"
+                                            },
+                                            "uri": "spotify:artist:3GMoVpWJy4smKuxFuFTwXC"
+                                        },
+                                        {
+                                            "profile": {
+                                                "name": "Dr. Dre"
+                                            },
+                                            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+                                        }
+                                    ]
+                                },
+                                "associations": {
+                                    "associatedVideos": {
+                                        "totalCount": 0
+                                    }
+                                },
+                                "contentRating": {
+                                    "label": "EXPLICIT"
+                                },
+                                "discNumber": 2,
+                                "trackDuration": {
+                                    "totalMilliseconds": 284906
+                                },
+                                "name": "California Love - Original Version",
+                                "playability": {
+                                    "playable": true,
+                                    "reason": "PLAYABLE"
+                                },
+                                "playcount": "695726142",
+                                "trackNumber": 6,
+                                "uri": "spotify:track:3ia3dJETSOllPsv3LJkE35"
+                            }
+                        },
+                        "uid": "1c329bea641dcae3"
+                    }
+                ],
+                "pagingInfo": {
+                    "limit": 100,
+                    "offset": 2025
+                },
+                "totalCount": 2033
+            }
+        }
+    },
+    "extensions": {}
+}
