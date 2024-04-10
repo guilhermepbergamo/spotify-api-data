@@ -2,12 +2,12 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import pandas as pd
 import time
-import keys
+import chaves
 
 #Configurações de autenticação da API do Spotify
-client_id = keys.client_id
-client_secret = keys.client_secret
-playlist_id = keys.playlist_id
+client_id = chaves.client_id
+client_secret = chaves.client_secret
+playlist_id = chaves.playlist_id
 
 #Autenticar-se na API do Spotify
 auth_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
